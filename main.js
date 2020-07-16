@@ -1,6 +1,6 @@
 $(window).scroll(function () {
    var scrl = $(window).scrollTop()
-   if (scrl < 10) {
+   if (scrl < 60) {
       $('.header-top').removeClass('fixedbar');
    }
    else {
