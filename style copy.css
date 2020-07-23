@@ -494,8 +494,8 @@ a.box.text-center{
 }
 
 .features {
-   /*color: #fff;*/
-   color: black;
+   color: #fff;
+   
 }
 
 .tabs {
@@ -503,7 +503,6 @@ a.box.text-center{
    padding-top: 6.5rem;
    padding-bottom: 4.25rem;
    background-color: #046672;
-   text-transform: uppercase;
 }
 
 .features.section_title {
@@ -586,7 +585,7 @@ color: #fff;
 }
 
 .tabs img {
-   
+   display: block;
    margin: 0.3rem auto;
 }
 
@@ -601,7 +600,7 @@ color: #fff;
    width: 4.5rem;
    height: 4.5rem;
 }
-/* вирівнювання в 2 і 3 табі*/ 
+/* вирівнювання в 2 і 3 табі */
  
 .tabs .icon-cards-area .card{
 display: inline-block;
