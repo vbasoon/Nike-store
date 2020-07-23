@@ -641,4 +641,11 @@ text-transform: none;
 }
 
 
+.details {
+   margin-top: 50px;
+}
 
+.basic-2,
+.basic-3 {
+   color: #333;
+}
